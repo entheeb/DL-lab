@@ -1,0 +1,11 @@
+2021-12-27 22:33:44 PM - wandb.agents.pyagent - INFO -pyagent:  Starting sweep agent: entity=None, project=None, count=50
+2021-12-27 22:33:57 PM - root - INFO -utils_misc:   ============================== building directories ============================== 
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\run_2021.12.27_T_22-33-57Trainer.lr=0.0007104071302474489,Trainer.opt=2,Trainer.wd=0.0010819042497599866,choose_model.dpr=0Tune built
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\records\tfrecord already exists
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\records\saved_model already exists
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\records\others already exists
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\records\data_after_preprocessing already exists
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\run_2021.12.27_T_22-33-57Trainer.lr=0.0007104071302474489,Trainer.opt=2,Trainer.wd=0.0010819042497599866,choose_model.dpr=0Tune\ckpts built
+2021-12-27 22:33:57 PM - root - INFO -utils_params:  file path : C:\Users\67064\experiments\run_2021.12.27_T_22-33-57Trainer.lr=0.0007104071302474489,Trainer.opt=2,Trainer.wd=0.0010819042497599866,choose_model.dpr=0Tune\Tensorboard built
+2021-12-27 22:33:57 PM - root - INFO -utils_misc:   ============================== finish building directories ============================== 
+2021-12-27 22:33:57 PM - root - INFO -utils_misc:   ============================== Transfer Learning of vision_transformer_16 start ============================== 
